@@ -13,6 +13,7 @@
     ]
   },
   "2018": {
+    "schemeName" : "2018 Scheme( F, P, C, O )",
     "gradeRanges": [
       { "max": 34,  "grade": "F",  "points": 0 },
       { "max": 39,  "grade": "P",  "points": 4 },

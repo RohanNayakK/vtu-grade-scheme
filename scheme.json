@@ -1,15 +1,92 @@
 {
   "2021": {
-    "schemeName" : "2021 Scheme( O, A+, A, B+, B, C, P, F )",
+    "schemeName": "2021 Scheme( O, A+, A, B+, B, C, P, F )",
     "gradeRanges": [
-      { "max": 39,  "grade": "F",  "points": 0 },
-      { "max": 44,  "grade": "P",  "points": 4 },
-      { "max": 54,  "grade": "C",  "points": 5 },
-      { "max": 59,  "grade": "B",  "points": 6 },
-      { "max": 69,  "grade": "B+", "points": 7 },
-      { "max": 79,  "grade": "A",  "points": 8 },
-      { "max": 89,  "grade": "A+", "points": 9 },
-      { "max": 100, "grade": "O",  "points": 10 }
+      {
+        "max": 39,
+        "grade": "F",
+        "points": 0
+      },
+      {
+        "max": 44,
+        "grade": "P",
+        "points": 4
+      },
+      {
+        "max": 54,
+        "grade": "C",
+        "points": 5
+      },
+      {
+        "max": 59,
+        "grade": "B",
+        "points": 6
+      },
+      {
+        "max": 69,
+        "grade": "B+",
+        "points": 7
+      },
+      {
+        "max": 79,
+        "grade": "A",
+        "points": 8
+      },
+      {
+        "max": 89,
+        "grade": "A+",
+        "points": 9
+      },
+      {
+        "max": 100,
+        "grade": "O",
+        "points": 10
+      }
+    ]
+  },
+  "2022": {
+    "schemeName": "2022 Scheme( O, A+, A, B+, B, C, P, F )",
+    "gradeRanges": [
+      {
+        "max": 39,
+        "grade": "F",
+        "points": 0
+      },
+      {
+        "max": 44,
+        "grade": "P",
+        "points": 4
+      },
+      {
+        "max": 54,
+        "grade": "C",
+        "points": 5
+      },
+      {
+        "max": 59,
+        "grade": "B",
+        "points": 6
+      },
+      {
+        "max": 69,
+        "grade": "B+",
+        "points": 7
+      },
+      {
+        "max": 79,
+        "grade": "A",
+        "points": 8
+      },
+      {
+        "max": 89,
+        "grade": "A+",
+        "points": 9
+      },
+      {
+        "max": 100,
+        "grade": "O",
+        "points": 10
+      }
     ]
   }
 }
